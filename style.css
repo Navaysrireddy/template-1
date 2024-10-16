@@ -1,0 +1,53 @@
+section{
+    display: inline-block;
+    width: 240px;
+    vertical-align: top;
+    margin-left: 50px;
+}
+img{
+    width: 100%;
+}
+header{
+    margin-top:20px;
+    margin-bottom:90px;
+    font-size: 23px;
+    text-align: center;
+}
+.icon{
+    margin-left:15px;
+}
+main{
+    margin: 0px 60px;
+}
+.Food{
+    margin-left: 430px;
+}
+.mail{
+    margin-left: 430px;
+}
+h3
+{
+    font-size: 16px;
+    text-align: justify;
+    
+    font-weight: 500;
+    margin: 8px 0px;
+
+}
+p{	
+    font-size: 18px;
+    text-align: justisy;
+    
+}
+
+*{
+    font-family: "Karma", serif;
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    padding: 10px;
+}
+.space{
+    padding: 10px;
+}
